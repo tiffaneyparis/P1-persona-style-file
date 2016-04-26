@@ -4,18 +4,63 @@
 
 /* Color Palette */
 
-
+.color-1 {
+    background: red;
+}
+.color-2 {
+    background: white;
+}
+.color-3 {
+    background: blue;
+}
 /* Textures or Patterns*/
 
-
+.pattern-1 {
+    background: url("http://www.crazyeddie.org/wallpaper/images/flag_1280x1024.jpg") 25% 25%; no repeat;
+    background-size: cover;
+}
+    
 /* Imagery */
 
 
 /* Icons */
-
+.icon-1 {
+    border: none;
+}
 
 /* Navigation */
+nav li {
+    list-style: none;}
 
+nav a:link {
+    color: blue;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: 2px;
+}
 
+ nav a:hover {
+     
+     color: red;
+ }
+
+button {
+    padding: 1em;
+    background: blue;
+    color: white;
+    border: red solid 5px;
+    border-radius: 10px;
+}
 /* Typography */
 
+h1,h2 {
+    font-family: 'Henny Penny', cursive;
+    color: red;
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.25em;
+    font-family: 'Henny Penny', cursive;
+    letter-spacing: 4px;
+}
