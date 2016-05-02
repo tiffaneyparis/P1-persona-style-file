@@ -24,16 +24,20 @@ body {
 
 
 
+
 /* Color Palette */
 
+.colorpalette {
+    border: 1px solid yellow;
+}
 .color-1 {
-    background: red;
+    background: #394819;
 }
 .color-2 {
-    background: white;
+    background: #8D3600;
 }
 .color-3 {
-    background: blue;
+    background: #B49325;
 }
 /* Textures or Patterns*/
 
@@ -82,14 +86,13 @@ button {
 /* Typography */
 
 h1,h2 {
-    font-family: 'Anton', sans-serif;
-    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: seashell;
 }
 
 p {
-    font-size: 1.25em;
+    font-size: 1em;
     line-height: 1.25em;
-   font-family: 'Asap', sans-serif;
-    letter-spacing: 4px;
-    color: antiquewhite;
+   font-family: 'Fjalla One', sans-serif;
+    color: burlywood;
 }
