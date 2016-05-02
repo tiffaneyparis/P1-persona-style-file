@@ -1,7 +1,11 @@
 /***************/
 /* YOUR STYLES */
 /***************/
-
+.main {
+    border: 30px solid black;
+    width: 800;
+    height: auto;
+}
 /* Color Palette */
 
 .color-1 {
@@ -22,6 +26,7 @@
     
 /* Imagery */
 
+}
 
 /* Icons */
 .icon-1 {
