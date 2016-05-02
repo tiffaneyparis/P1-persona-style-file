@@ -1,11 +1,29 @@
 /***************/
 /* YOUR STYLES */
 /***************/
-.main {
-    border: 30px solid black;
-    width: 800;
-    height: auto;
+body {
+    background: black;
 }
+
+.maintop {
+    width: 900px;
+    height: auto;
+    border: red solid 3px;
+    margin: auto;
+    padding: 0;
+    
+}
+ 
+.mainbottom {
+    width: 900px;
+    height: auto;
+    border: green solid 3px;
+    margin: auto;
+    padding: 0;
+}
+
+
+
 /* Color Palette */
 
 .color-1 {
@@ -26,8 +44,13 @@
     
 /* Imagery */
 
+.personapiccontainer {
+    width: 700px;
+    height: 905px;
+    border: solid white 2px;
+    margin: auto;
+    
 }
-
 /* Icons */
 .icon-1 {
     border: none;
@@ -59,13 +82,14 @@ button {
 /* Typography */
 
 h1,h2 {
-    font-family: 'Henny Penny', cursive;
-    color: red;
+    font-family: 'Anton', sans-serif;
+    color: white;
 }
 
 p {
     font-size: 1.25em;
     line-height: 1.25em;
-    font-family: 'Henny Penny', cursive;
+   font-family: 'Asap', sans-serif;
     letter-spacing: 4px;
+    color: antiquewhite;
 }
