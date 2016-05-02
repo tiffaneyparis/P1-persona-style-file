@@ -38,12 +38,27 @@ body {
 /* Textures or Patterns*/
 
 .pattern-1 {
-    background: url("http://www.crazyeddie.org/wallpaper/images/flag_1280x1024.jpg") 25% 25%; no repeat;
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/003-texture-background-high-resolution-subtle-card-board-collection-board-pack.jpg") 25% 25%; no repeat;
     background-size: cover;
 }
 
 .pattern-2 {
-    background: url("http://www.crazyeddie.org/wallpaper/images/flag_1280x1024.jpg") 25% 25%; no repeat;
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
+    background-size: cover;
+}
+
+.pattern-3 {
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
+    background-size: cover;
+}
+
+.pattern-4 {
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
+    background-size: cover;
+}
+
+.pattern-5 {
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
     background-size: cover;
 }
 /* Imagery */
