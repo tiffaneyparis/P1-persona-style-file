@@ -35,30 +35,38 @@ body {
 .color-3 {
     background: #B49325;
 }
+
+.color-4 {
+    background: #B49325;
+}
+
+.color-5 {
+    background: #B49325;
+}
 /* Textures or Patterns*/
 
-.pattern-1 {
+.pattern-3 {
     background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/003-texture-background-high-resolution-subtle-card-board-collection-board-pack.jpg") 25% 25%; no repeat;
     background-size: cover;
 }
 
-.pattern-2 {
-    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
+.pattern-5 {
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/inide0x53myeje2vhvey6fki4fyz1gzppkyaoqnro1qjeemuhrxq34d7xs9udmu2-f 2.jpg") 25% 25%; no repeat;
     background-size: cover;
 }
 
-.pattern-3 {
-    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
+.pattern-1 {
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/forest-green-woven-fabric-close-up-texture 2.jpg") 25% 25%; no repeat;
     background-size: cover;
 }
 
 .pattern-4 {
-    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/mlH3TtY 2.jpg") 25% 25%; no repeat;
     background-size: cover;
 }
 
-.pattern-5 {
-    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/") 25% 25%; no repeat;
+.pattern-2 {
+    background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/maroon-knit-texture 2.jpg") 25% 25%; no repeat;
     background-size: cover;
 }
 /* Imagery */
