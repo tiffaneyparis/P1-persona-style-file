@@ -8,7 +8,6 @@ body {
 .maintop {
     width: 900px;
     height: auto;
-    border: red solid 3px;
     margin: auto;
     padding: 0;
     
@@ -17,9 +16,9 @@ body {
 .mainbottom {
     width: 900px;
     height: auto;
-    border: green solid 3px;
     margin: auto;
     padding: 0;
+    background: cornsilk;
 }
 
 
@@ -27,9 +26,6 @@ body {
 
 /* Color Palette */
 
-.colorpalette {
-    border: 1px solid yellow;
-}
 .color-1 {
     background: #394819;
 }
@@ -51,7 +47,7 @@ body {
 .personapiccontainer {
     width: 700px;
     height: 905px;
-    border: solid white 2px;
+   
     margin: auto;
     
 }
@@ -87,12 +83,12 @@ button {
 
 h1,h2 {
     font-family: 'Roboto Condensed', sans-serif;
-    color: seashell;
+    color: black;
 }
 
 p {
     font-size: 1em;
     line-height: 1.25em;
    font-family: 'Fjalla One', sans-serif;
-    color: burlywood;
+    color: saddlebrown;
 }
