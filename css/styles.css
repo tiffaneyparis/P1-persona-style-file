@@ -41,7 +41,11 @@ body {
     background: url("http://www.crazyeddie.org/wallpaper/images/flag_1280x1024.jpg") 25% 25%; no repeat;
     background-size: cover;
 }
-    
+
+.pattern-2 {
+    background: url("http://www.crazyeddie.org/wallpaper/images/flag_1280x1024.jpg") 25% 25%; no repeat;
+    background-size: cover;
+}
 /* Imagery */
 
 .personapiccontainer {
