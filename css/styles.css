@@ -102,12 +102,14 @@ nav a:link {
     text-decoration: none;
     text-transform: none;
     letter-spacing: 1px;
+       font-family: 'Fjalla One', sans-serif;
     
 }
 
  nav a:hover {
      
      color: #77A816;
+    
  }
 
 button {
@@ -119,16 +121,23 @@ button {
 }
 /* Typography */
 
-h1,h2, h3 {
-    font-family: 'Roboto Condensed', sans-serif;
+h3, h2, .secondary {
+font-family: 'Oswald', sans-serif;
     color: #702001;
 }
 
-
+h1, .primary{
+   font-family: 'Merriweather', serif;
+    
+}
 
 p {
     font-size: 1em;
     line-height: 1.25em;
    font-family: 'Fjalla One', sans-serif;
     color: #3E5C03;
+}
+
+ul {
+    color: #D45202;
 }
