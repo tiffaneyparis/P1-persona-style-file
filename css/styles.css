@@ -2,14 +2,14 @@
 /* YOUR STYLES */
 /***************/
 body {
-    background: black;
-}
+ background: url("http://tiffaneyparis.github.io/p1-persona-style-tile/img/inide0x53myeje2vhvey6fki4fyz1gzppkyaoqnro1qjeemuhrxq34d7xs9udmu2-f 2.jpg")}
 
 .maintop {
     width: 900px;
     height: auto;
     margin: auto;
     padding: 0;
+
     
 }
  
@@ -90,37 +90,43 @@ body {
 
 /* Navigation */
 nav li {
-    list-style: none;}
+    list-style: none;
+    color: #D45202;
+}
+
 
 nav a:link {
-    color: blue;
+    color: #D45202;
     text-decoration: none;
     text-transform: none;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+    
 }
 
  nav a:hover {
      
-     color: red;
+     color: #77A816;
  }
 
 button {
     padding: 1em;
-    background: blue;
-    color: white;
-    border: red solid 5px;
-    border-radius: 10px;
+    background: #3E5C03;
+    color: #DDD159;
+    border: #77A816 solid 3px;
+    border-radius: 20px;
 }
 /* Typography */
 
-h1,h2 {
+h1,h2, h3 {
     font-family: 'Roboto Condensed', sans-serif;
-    color: black;
+    color: #702001;
 }
+
+
 
 p {
     font-size: 1em;
     line-height: 1.25em;
    font-family: 'Fjalla One', sans-serif;
-    color: saddlebrown;
+    color: #3E5C03;
 }
