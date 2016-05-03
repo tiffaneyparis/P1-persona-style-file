@@ -92,7 +92,7 @@ body {
 
 /* Navigation */
 nav li {
-    list-style: none;
+    
     color: #D45202;
 }
 
@@ -112,6 +112,12 @@ nav a:link {
     
  }
 
+a {
+    color: #D45202;
+    text-decoration: none;
+
+}
+
 button {
     padding: 1em;
     background: #3E5C03;
@@ -128,6 +134,7 @@ font-family: 'Oswald', sans-serif;
 
 h1, .primary{
    font-family: 'Merriweather', serif;
+   
     
 }
 
@@ -138,6 +145,3 @@ p {
     color: #3E5C03;
 }
 
-ul {
-    color: #D45202;
-}
